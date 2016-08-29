@@ -29,13 +29,14 @@ public class Main { //ReadFile
 
 
     private static void NameCountry() throws IOException {
+        String file_name2 = "/Users/meekinsworks/documents/ironyard/people/people.csv";
+        Person file2 = new Person(file_name2); //array of objects
+        Person people [ ] = new Person[1001];
 
-        String file_name = "/Users/meekinsworks/documents/ironyard/people/people.csv";
-        Person file = new Person(file_name);
-        String[] people = file.OpenFile();
 
-        String[][] nc = {people
-        };
+
+
+
 //            run a scanner loop
 //
 //
