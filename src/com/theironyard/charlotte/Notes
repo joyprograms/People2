@@ -1,0 +1,5 @@
+ //2. Arrange the strings that were read
+    //- into an array list
+    // array list holding ... the name and the country (name)
+    // add country - can you go arrayList.add(name, country)
+    //3. Manipulate the code
